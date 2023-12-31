@@ -1,0 +1,18 @@
+{
+  "builds": [
+    {
+      "name": "Manta Build",
+      "version": "1.0",
+      "url": "https://firebasestorage.googleapis.com/v0/b/zip-manager-bbbba.appspot.com/o/Update23-1.zip?alt=media&token=8c8a792c-e4b1-4d6e-a3da-a244b1a58ad0",
+      "gui": "http://",
+      "kodi": "20",
+      "theme": "http://",
+      "icon": "https://www.fileshare7575.com/fileshare7575.com/fiverr/images/icon.png",
+      "fanart": "https://www.fileshare7575.com/fileshare7575.com/fiverr/images/splash.jpg",
+      "preview": "https://",
+      "adult": "no",
+      "description": " [COLOR lime] Manta build 31 Dec 2023 [/COLOR]"
+    }
+	
+  ]
+}
