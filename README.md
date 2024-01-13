@@ -1,3 +1,2 @@
-# zips
 
-This repository is private
+This repository is Elevate Stream Repo. visit us at http://elevatetv.store. Thanks

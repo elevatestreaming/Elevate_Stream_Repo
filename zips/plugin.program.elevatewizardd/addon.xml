@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="plugin.program.elevatewizardd" name="Elevate Wizard" version="1.0" provider-name="ucool38">
 	<requires>
 		<import addon="xbmc.python" version="3.0.1"/>
@@ -30,4 +29,3 @@
 		</assets>
 	</extension>
 </addon>
-</addons>
